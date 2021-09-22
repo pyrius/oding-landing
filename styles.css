@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto", arial;
   margin: 0 100px;
 }
 
@@ -34,7 +34,7 @@ a {
 .container {
   display: flex;
   flex-direction: column;
-  border: 2px solid green;
+  /*border: 2px solid green;*/
 }
 
 .header {
